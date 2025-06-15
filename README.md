@@ -36,6 +36,9 @@ Ahora tendremos que conectarnos mediante SSH a la máquina.
 
 ![](images/clouding/Conexion_mediante_SSH_al_servidor.png)
 
+**Clouding ofrece velocidades entorno a los 80Mbps por segundo.**
+![](images/clouding/Velocidad_de_la_red.png)
+
 ## Crear la VPN
 
 ![](images/vpn/WireGuard-text-Logo.png)

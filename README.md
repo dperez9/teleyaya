@@ -9,6 +9,9 @@ El **objetivo de este proyecto es controlar una televisión Android SmartTV de f
 **Requisitos** previos:
 - **Contar con una SmartTV compatible**. En este ejemplo se ha utilizado un Google Chromecast y una SmartTV TCL. Sin embargo, **algunas marcas tienen restringido los permisos a las opciones de desarrollador**, siendo necesarias para este cometido.
 - **Contar con las herramientas de desarrollo para Android**. Es posible descargarlas desde [platform-tools](https://developer.android.com/tools/releases/platform-tools?hl=es-419). Una vez descargadas las almacenaremos en la carpeta que deseemos y procederemos agregar el PATH de la misma al conjunto de variables de entorno.
+- Instalar el paquete `scrcpy`.
+  Windows: `choco install scrcpy
+  Linux: `sudo apt install scrcpy`
 
 ---
 

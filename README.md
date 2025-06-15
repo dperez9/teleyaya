@@ -8,7 +8,7 @@ El **objetivo de este proyecto es controlar una televisión Android SmartTV de f
 
 **Requisitos** previos:
 - **Contar con una SmartTV compatible**. En este ejemplo se ha utilizado un Google Chromecast y una SmartTV TCL. Sin embargo, **algunas marcas tienen restringido los permisos a las opciones de desarrollador**, siendo necesarias para este cometido.
-- **Contar con las herramientas de desarrollo para [[Android]]**. Es posible descargarlas desde [platform-tools](https://developer.android.com/tools/releases/platform-tools?hl=es-419). Una vez descargadas las almacenaremos en la carpeta que deseemos y procederemos agregar el PATH de la misma al conjunto de variables de entorno.
+- **Contar con las herramientas de desarrollo para Android**. Es posible descargarlas desde [platform-tools](https://developer.android.com/tools/releases/platform-tools?hl=es-419). Una vez descargadas las almacenaremos en la carpeta que deseemos y procederemos agregar el PATH de la misma al conjunto de variables de entorno.
 
 ---
 
@@ -32,7 +32,7 @@ Creamos el servidor.
 
 ![](images/clouding/Clouding_Firewall_Port.png)
 
-Ahora tendremos que conectarnos mediante [[SSH]] a la máquina.
+Ahora tendremos que conectarnos mediante SSH a la máquina.
 
 ![](images/clouding/Conexion_mediante_SSH_al_servidor.png)
 
@@ -290,7 +290,7 @@ El primer paso será habilitar las opciones de desarrollador en la SmartTV. Para
 
 ### Configurar Wireguard en la SmartTV
 
-Para configurar [[WireGuard]] en el dispositivo, deberemos contar con un fichero de configuración para el dispositivo (ver la documentación de [[WireGuard]]). Una vez con esto, deberemos realizar los siguientes pasos:
+Para configurar WireGuard en el dispositivo, deberemos contar con un fichero de configuración para el dispositivo (ver la documentación de WireGuard). Una vez con esto, deberemos realizar los siguientes pasos:
 
 1. Instalar Wireguard desde la tienda de aplicaciones. 
 ![](images/configuration/7.png)
